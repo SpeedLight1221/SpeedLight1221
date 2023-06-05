@@ -4,6 +4,7 @@
 * C# is the only thing i am moderately useful at
 * Pretends to know a lot about everything, actually only has surface knowladge on random topics
 * Currently working on: Overcoming my laziness (long term project)
+* Achievement: Made a "game" using a graphical framework designed for applications
 
 
 
