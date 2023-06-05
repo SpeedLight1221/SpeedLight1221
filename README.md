@@ -44,4 +44,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
 </div>
-* *Note: This doesnt mean i am even moderately good with any of these langueages
+*Note: This doesnt mean i am even moderately good with any of these langueages
