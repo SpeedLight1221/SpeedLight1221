@@ -1,6 +1,6 @@
 
 
-### Certified cool "programmer" 😎😎
+## Certified cool "programmer" 😎😎
 * C# is the only thing i am moderately useful at
 * Pretends to know a lot about everything, actually only has surface knowladge on random topics
 * Currently working on: Overcoming my laziness (long term project)
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <br>
   
   
- <h3 align="center">Tech Stack</h3> 
+ <h2 align="center">Tech Stack</h3> 
  <hr>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
